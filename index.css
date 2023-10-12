@@ -140,7 +140,7 @@ textarea::-webkit-scrollbar {
 
 @media (max-width: 505px) {
   form {
-    width: 100%;
+    width: 90%;
   }
 
   .container {
